@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "472722432414",
+    "project_id": "userdata-2d4b0",
+    "storage_bucket": "userdata-2d4b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472722432414:android:7912cd96bc07946fd2368f",
+        "android_client_info": {
+          "package_name": "com.grit.newopenweatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472722432414-mqj2tcp8fabed472hd2reoh7m50ngsck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grit.newopenweatherapp",
+            "certificate_hash": "89ffe6b734503280716370e5bdf6ad71b9bca5d1"
+          }
+        },
+        {
+          "client_id": "472722432414-818dj66mqnq6mi9p4dbkpv565k470bgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1GwKXEUnNMNw0sbi69UOtNo4aF0LFBKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472722432414-818dj66mqnq6mi9p4dbkpv565k470bgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
